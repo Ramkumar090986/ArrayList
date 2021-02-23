@@ -20,6 +20,10 @@ public class Ascending {
 		break;
 	}
 	
+	System.out.println("Find1 Code");
 	System.out.println("Find 2 Code");
+
+
+
 }
 }
