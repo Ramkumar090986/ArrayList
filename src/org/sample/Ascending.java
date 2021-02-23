@@ -19,5 +19,7 @@ public class Ascending {
 		System.out.println(a[2]);
 		break;
 	}
+	
+	System.out.println("Find 2 Code");
 }
 }
