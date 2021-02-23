@@ -21,5 +21,9 @@ public class Ascending {
 	}
 	
 	System.out.println("Find1 Code");
+	System.out.println("Find 2 Code");
+
+
+
 }
 }
